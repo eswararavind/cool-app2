@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 eswar
 my son
 studying 9 th
-=======
 dhanu
 my son
->>>>>>> refs/remotes/origin/main
+my elderson
